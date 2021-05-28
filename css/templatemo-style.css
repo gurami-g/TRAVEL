@@ -46,7 +46,7 @@ p {
 .section-heading em {
   font-style: normal;
   font-weight: 700;
-  color: #138621;
+  color: #009f6b;
 }
 
 .section-heading p {
@@ -61,7 +61,7 @@ p {
 .white-button a {
   font-size: 13px;
   font-weight: 600;
-  color: #138621;
+  color: #009f6b;
   text-transform: capitalize;
   background-color: #fff;
   display: inline-block;
@@ -74,7 +74,7 @@ p {
 }
 
 .white-button a:hover {
-  background-color: #138621;
+  background-color: #009f6b;
   color: #fff;
 }
 
@@ -83,7 +83,7 @@ p {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #138621;
+  background-color: #009f6b;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -95,7 +95,7 @@ p {
 
 .accent-button a:hover {
   background-color: #fff;
-  color: #138621;
+  color: #009f6b;
 }
 
 header {
@@ -183,7 +183,7 @@ header {
   width: 100%;
   height: 140px;
   line-height: 100px;
-  background-color: #138621;
+  background-color: #009f6b;
   padding: 20px;
   text-align: center;
 }
@@ -301,7 +301,7 @@ header {
 }
 
 .sidebar-navigation .social-icons li a:hover {
-  color: #138621;
+  color: #009f6b;
 }
 
 
@@ -479,7 +479,7 @@ header {
 }
 
 #featured .owl-dots .active span {
-  background-color: #138621!important;
+  background-color: #009f6b!important;
 }
 
 #featured .owl-dots button {
@@ -515,7 +515,7 @@ header {
 }
 
 #featured .owl-nav span:hover {
-  background-color: #138621;
+  background-color: #009f6b;
   color: #fff;
 }
 
@@ -540,7 +540,7 @@ header {
   color: #fff;
   text-align: center;
   text-transform: capitalize;
-  background-color: #138621;
+  background-color: #009f6b;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -729,7 +729,7 @@ header {
   height: 90px;
   width: 100%;
   background-color: #eee;
-  border-bottom: 10px solid #138621;
+  border-bottom: 10px solid #009f6b;
 }
 
 #blog .tabs li {
@@ -755,7 +755,7 @@ header {
 }
 
 #blog .tabs a:hover {
-  color: #138621;
+  color: #009f6b;
 }
 
 
@@ -764,7 +764,7 @@ header {
 }
 
 #blog .tabs .active {
-  background-color: #138621;
+  background-color: #009f6b;
   color: #fff;
 }
 
@@ -883,7 +883,7 @@ header {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #138621;
+  background-color: #009f6b;
   display: inline-block;
   height: 44px;
   line-height: 24px;
